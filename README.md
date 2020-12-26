@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">An IT student at the IUT of Orléans</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoqueeberlue&label=Profile%20views&color=0e75b6&style=flat" alt="phoqueeberlue" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoqueeberlue" alt="phoqueeberlue" /></a> </p>
 
 - 🔭 I’m currently working on [luasteroids](https://github.com/PhoqueEberlue/luasteroids)
